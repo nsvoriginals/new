@@ -1,0 +1,214 @@
+.desktop1Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 970px;
+  height: 928px;
+}
+.about,
+.doxa,
+.letsIgnite,
+.scan,
+.share {
+  position: absolute;
+  height: 1.09%;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.doxa {
+  width: 9.79%;
+  top: 5%;
+  left: 19.29%;
+  font-size: 48px;
+  text-transform: uppercase;
+  color: #f5f5f5;
+}
+.about,
+.letsIgnite,
+.scan,
+.share {
+  width: 6.04%;
+  top: 5.02%;
+  left: 50%;
+}
+.letsIgnite,
+.scan,
+.share {
+  width: 4.72%;
+  left: 60.69%;
+}
+.letsIgnite,
+.share {
+  width: 9.86%;
+  top: 5.25%;
+  left: 69.31%;
+}
+.share {
+  width: 5.76%;
+  left: 81.74%;
+}
+.objectother07Icon {
+  position: absolute;
+  height: 100%;
+  width: 99.06%;
+  top: 0;
+  right: -1.89%;
+  bottom: 0;
+  left: 2.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.objectother07 {
+  position: absolute;
+  height: 16.88%;
+  width: 36.81%;
+  top: 10.62%;
+  right: 14.37%;
+  bottom: 72.5%;
+  left: 48.82%;
+}
+.aNewWay {
+  position: absolute;
+  height: 9.18%;
+  width: 23.61%;
+  top: 12.57%;
+  left: 15.2%;
+  font-size: var(--font-size-xl);
+  line-height: 110%;
+  display: inline-block;
+}
+.qrlogoRemovebgPreview1Icon {
+  position: absolute;
+  top: 108px;
+  left: 121px;
+  width: 157px;
+  height: 167px;
+  object-fit: cover;
+}
+.learningWithWeb {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.justLikeThat {
+  margin: 0;
+}
+.learningWithWebContainer {
+  position: absolute;
+  height: 4.36%;
+  width: 30.19%;
+  top: 25.7%;
+  left: 18.6%;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.desktop1Inner,
+.desktop1Item {
+  position: absolute;
+  top: 155px;
+  left: 603px;
+  width: 838px;
+  height: 1418px;
+}
+.desktop1Inner {
+  top: 0;
+  left: 229px;
+  width: 1100px;
+  height: 889px;
+}
+.computerScience {
+  text-transform: uppercase;
+}
+.whyComputerScienceContainer {
+  position: absolute;
+  height: 2.3%;
+  width: 64.05%;
+  top: 43.89%;
+  left: 13.05%;
+  font-size: var(--font-size-xl);
+  line-height: 110%;
+  display: inline-block;
+}
+.itsSimpleGrowth {
+  position: absolute;
+  height: 12.23%;
+  width: 38.93%;
+  top: 48.8%;
+  left: 14.23%;
+  font-size: 36px;
+  line-height: 66px;
+  display: inline-block;
+}
+.b9f5b66Fd9643818d2bBa95785Icon {
+  position: absolute;
+  top: 1709px;
+  left: 486px;
+  width: 1000px;
+  height: 887px;
+  object-fit: cover;
+}
+.thisWebpageIsContainer {
+  position: absolute;
+  height: 3.04%;
+  width: 86.95%;
+  top: 35.32%;
+  left: 8.26%;
+  font-size: var(--font-size-lg);
+  line-height: 66px;
+  display: inline-block;
+}
+.letsStartOurContainer {
+  position: absolute;
+  height: 2.04%;
+  width: 61.76%;
+  top: 67.99%;
+  left: 20.47%;
+  font-size: 96px;
+  line-height: 110%;
+  display: inline-block;
+}
+.k4cRemovebgPreview1Icon {
+  position: absolute;
+  top: 2856px;
+  left: 380px;
+  width: 682px;
+  height: 670px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 3806px;
+  left: 0;
+  background-color: #df9eee;
+  width: 1441px;
+  height: 12px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 3595px;
+  left: 544px;
+  border-radius: 35px;
+  width: 349px;
+  height: 90px;
+}
+.join {
+  position: absolute;
+  top: 94.97%;
+  left: 44.62%;
+  font-size: var(--font-size-lg);
+  line-height: 27.5px;
+  font-family: var(--font-roboto);
+  color: #000;
+}
+.desktop1 {
+  position: relative;
+  background-color: #00234b;
+  width: 100%;
+  height: 3818px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
