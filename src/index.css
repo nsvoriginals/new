@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply m-0 p-0;
+  }
+}
+
+@font-face {
+  font-family: 'Nueout';
+  src: url('../public/Nue-Semi.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Geist';
+  src: url('../public/Geist-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'mono';
+  src: url('../public/mono2.woff2') format('woff2');
+}
+

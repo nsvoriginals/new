@@ -1,0 +1,35 @@
+
+.text-mask-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.mask-layer {
+  mask-image: url('/mask.svg');
+  mask-repeat: no-repeat;
+  mask-size: 40px;
+  background: #ec4e39;
+  color: black;
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 5;
+}
+
+/* Make sure your base text content has a z-index higher than the mask layer */
+.main-content {
+  position: relative;
+  z-index: 10;
+}
+
+/* Add transition for a smoother experience */
+.mask-layer h2 {
+  transition: all 0.3s ease-out;
+}
+
+/* Optional: Add these styles if you want the cursor to change when hovering */
+.hover-area {
+  cursor: pointer;
+}
